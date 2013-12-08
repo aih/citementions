@@ -1,0 +1,1 @@
+Like Facebook "At mentions" for citations. Allows a user to begin a citation with @, select the correct citation from a list supplied by AJAX and add a link to the citation in the text. Using the At.js library.
